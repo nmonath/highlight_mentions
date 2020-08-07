@@ -3,7 +3,7 @@
 Install:
 
 ```
-pip install git+git://github.com/nmonath/kdcovid.gi
+pip install git+git://github.com/nmonath/highlight_mentions.git
 ```
 
 Use:
