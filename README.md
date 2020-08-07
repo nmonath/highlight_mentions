@@ -6,6 +6,7 @@ Install:
 pip install git+git://github.com/nmonath/kdcovid.gi
 ```
 
+Use:
 ```
 from highlight_mentions.highlighter import Highlighter, Mention, Doc
 
@@ -17,3 +18,6 @@ with open('example.html', 'w') as fout:
     fout.write(highlighter.html_page(doc))
 ```
 
+Notes:
+* Highlighting style inspireed by disPlaCy.
+* Using materialize css/js.
