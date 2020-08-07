@@ -18,6 +18,8 @@ with open('example.html', 'w') as fout:
     fout.write(highlighter.html_page(doc))
 ```
 
+![Example](example.png)
+
 Notes:
 * Highlighting style inspireed by disPlaCy.
 * Using materialize css/js.
